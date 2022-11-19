@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @athul-official
+- 👀 I’m interested in ML
+- 🌱 I’m currently learning AI & ML
